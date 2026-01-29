@@ -1,0 +1,5 @@
+{
+  "name": "Gitee Tiff Uploader",
+  "description": "A frontend utility to upload TIFF files to Gitee Repository and generate shareable links for Tencent Docs.",
+  "requestFramePermissions": []
+}
